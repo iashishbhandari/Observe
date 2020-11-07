@@ -1,3 +1,3 @@
 # Observe
 
-A simple obverver class in swift.
+A simple observer class in swift.
